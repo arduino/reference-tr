@@ -25,8 +25,8 @@
 // This ''' is a line divider
 
 
-// PAGE TITLE
-= Page Title [h1]
+// Sayfa basligi
+= Sayfa basligi [h1]
 
 // SECTION DIV WITH ID STARTS
 [#name_of_id]
@@ -43,66 +43,66 @@
 
 // OTHER TITLES
 [float]
-== Section Title [h2]
+== Bölüm başlığı [h2]
 
 [float]
-=== Paragraph Title [h3]
+=== Paragraf başlığı [h3]
 
 [float]
-==== Sub-paragraph Title [h4]
+==== alt paragraf başlığı [h4]
 
 
 '''
 
-// TEXT STYLES
-This is normal <p> text +
-*This is bold <strong> text* +
-_This is italic <em> text_ +
-*_This is bold+italic <strong><em> text_* +
-[small]#This is small <span class="small"> text# +
-#This is highlighted <mark> text# +
-'`This is single quoted text`' +
-"`This is double quoted text`"
+// Metin STYLES
+Bu normal <p> Metin +
+*Bu kalın <strong> Metin* +
+_Bu italik <em> text_ +
+*_This is kalın+italik <strong><em> Metin_* +
+[small]#Bu küçük <span class="small"> Metin# +
+#Bu vurgulanır <mark> Metin# +
+'`Bu tek alıntı Metin`' +
+"`Bu çift alıntı Metin`"
 [%hardbreaks]
 
 '''
 
 // LINKS
 // Please note that all external links need to be opened in a new window/tab by adding ^ right before the last square brackets
-http://arduino.cc[This is an external <a href> link^] in a new tab +
-link:../index.html[This is a relative <a href> link] +
-mailto:webmaster@arduino.cc[This is an e-mail link]
+http://arduino.cc[Bu bir dış <a href> bağlantı^] yeni bir sekmede +
+bağlantı:../index.html[Bu bir akraba <a href> bağlantı] +
+mailto:webmaster@arduino.cc[Bu bir e-posta bağlantı]
 [%hardbreaks]
 
 '''
 
 // LISTS
-* This
-* is
-** an
-*** unordered
-* list
+* Bu
+* olduğu
+** bir
+*** sırasız
+* liste
 
 [%hardbreaks]
 
-. This
-. is
-.. a
-.. n
-... orde
-... red
-. list
+. Bu
+. olduğu
+.. bi
+.. r
+... düze
+... nli
+. liste
 
 '''
 
 // CODE
-This is `code` in a sentence +
+Bu `code` bir cümlede +
 `This is a whole line of code` +
 
 // HINT: Please note that sometimes when copy-pasting code a few spaces can be added at the beginnng of each line of code.
 // If that happens, please remove the extra spaces. Thanks!
 
-This can be a lot more code
+Bu çok daha fazla kod olabilir
 [source,arduino]
 ----
 for (int i = 0; i <= 99; i++) {
@@ -115,19 +115,19 @@ for (int i = 0; i <= 99; i++) {
 
 // TABLES
 |===
-|Name of Column 1 |Name of Column 2 |Name of Column 3
+|Sütunun Adı 1 |Sütunun Adı 2 |Sütunun Adı 3
 
-|Cell in column 1, row 1
-|Cell in column 2, row 1
-|Cell in column 3, row 1
+|Sütun içindeki hücre 1, sıra 1
+|Sütun içindeki hücre 2, sıra 1
+|Sütun içindeki hücre 3, sıra 1
 
-|Cell in column 1, row 2
-|Cell in column 2, row 2
-|Cell in column 3, row 2
+|Sütun içindeki hücre 1, sıra 2
+|Sütun içindeki hücre 2, sıra 2
+|Sütun içindeki hücre 3, sıra 2
 
-|Cell in column 1, row 3
-|Cell in column 2, row 3
-|Cell in column 3, row 3
+|Sütun içindeki hücre 1, sıra 3
+|Sütun içindeki hücre 2, sıra 3
+|Sütun içindeki hücre 3, sıra 3
 |===
 [%hardbreaks]
 
@@ -141,21 +141,21 @@ for (int i = 0; i <= 99; i++) {
 // To include an image on its own line (i.e., a block image), use the image:: prefix in front of the file name and square brackets after it []
 // Make sure you add [%hardbreaks] between any text and the image
 
-This is a block image with a URL
+Bu, URL’li bir blok resimdir
 [%hardbreaks]
 image::https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/1040x660/604a3538c15e081937dbfbd20aa60aad/A/0/A000066_featured_2.jpg[]
 
 
-This is an image saved in the attachments folder with a caption
+Bu, resim yazısı olan ekler klasörüne kaydedilen bir resimdir 
 [%hardbreaks]
-image::https://www.arduino.cc/reference/en/AsciiDoc_sample/AsciiDoc_Dictionary/attachments/ArduinoUno_R3_Front_450px.jpg[caption="", title="A beautiful Arduino UNO"]
+image::https://www.arduino.cc/reference/en/AsciiDoc_sample/AsciiDoc_Dictionary/attachments/ArduinoUno_R3_Front_450px.jpg[caption="", title="Bir güzel Arduino UNO"]
 
 
 '''
 
 // EMBED
 
-This is a pretty embed of code from Gist
+Bu Gist'ten gelen oldukça güzel bir kod kodu 
 ++++
 <script src="https://gist.github.com/mojavelinux/5333524.js">
 </script>
@@ -163,7 +163,7 @@ This is a pretty embed of code from Gist
 
 {empty} +
 
-And this is another of a video from YouTube
+Bu da YouTube’dan bir video daha
 ++++
 <iframe width="100%" height="315" src="https://www.youtube.com/watch?v=6cRFf4qkcTw?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 ++++
@@ -171,15 +171,15 @@ And this is another of a video from YouTube
 
 {empty} +
 
-And here some slides from Sideshare, yay!
+Ve burada Sideshare'den bazı slaytlar, heyt be!
 ++++
-<iframe src="https://www.slideshare.net/slideshow/embed_code/4430242" width="100%" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/damellis/introduction-to-arduino-4430242" title="Introduction to Arduino" target="_blank">Introduction to Arduino</a> </strong> from <strong><a href="//www.slideshare.net/damellis" target="_blank">David Mellis</a></strong> </div>
+<iframe src="https://www.slideshare.net/slideshow/embed_code/4430242" width="100%" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/damellis/introduction-to-arduino-4430242" title="Arduino'ya Giriş" target="_blank">Arduino'ya Giriş</a> </strong><strong><a href="//www.slideshare.net/damellis" target="_blank">David Mellis'den </a></strong> </div>
 ++++
 // HINT: Please remember to set the iframe width to 100% to have the slide show responsive on all our platforms
 
 {empty} +
 
-And this is some audio from SoundCloud
+Ve bu SoundCloud'dan gelen bir ses.
 ++++
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/55323777&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
 ++++
