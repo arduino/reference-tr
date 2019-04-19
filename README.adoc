@@ -1,37 +1,40 @@
-= Reference-tr
+﻿= Reference-tr
 
-Reference-tr is the repo for the Language Reference documentation of the Arduino syntax in **Turkish**.  
-All the Reference terms files are in AsciiDoc format.
+Reference-tr, ** Türkçe ** olarak Arduino sözdiziminin Language Reference belgelerinin repoudur.  
+Tüm Referans terimleri dosyaları AsciiDoc formatındadır.
 
-Thank you for taking the time to contribute to Arduino content, this is really helpful to the whole Arduino Community. If you want to learn more on how to contribute to this project please check https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[this step by step tutorial].
+Arduino içeriğine katkıda bulunmak için zaman ayırdığınız için teşekkür ederiz, bu gerçekten tüm Arduino Topluluğu için faydalıdır. Bu projeye katkıda bulunma konusunda daha fazla bilgi edinmek istiyorsanız, lütfen https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37 adresini ziyaret edin[adım adım öğretici bu adım].
 
-== Content Creation and Editing
-If you want to contribute new content, create a new file (with any text or code editor) and save it as .adoc.  
-Do not use parenthesis or any special character in the file name.  
-In https://raw.githubusercontent.com/arduino/reference-tr/master/AsciiDoc_sample/AsciiDoc_Dictionary/AsciiDoc_Template-Dictionary.adoc[`reference-tr/AsciiDoc_sample/AsciiDoc_Dictionary`] you will find an overview on the AsciiDoc syntax. This includes Titles, Text, Links, Images, Tables, Code and various embeds (video, slideshow, audio and code). You can see it rendered https://www.arduino.cc/reference/en/asciidoc_sample/asciidoc_dictionary/asciidoc_template-dictionary/[here].
+== İçerik Oluşturma ve Düzenleme
+Yeni içeriğe katkıda bulunmak istiyorsanız, yeni bir dosya oluşturun (herhangi bir metin veya kod düzenleyiciyle) ve .adoc olarak kaydedin..  
+Dosya adında parantez veya özel bir karakter kullanmayın. 
+https://raw.githubusercontent.com/arduino/reference-tr/master/AsciiDoc_sample/AsciiDoc_Dictionary/AsciiDoc_Template-Dictionary.adoc [`reference-tr / AsciiDoc_sample / AsciiDoc_Dictionary`de size bir genel bakış bulacaksınız. Bu, Başlıklar, Metin, Bağlantılar, Resimler, Tablolar, Kod ve çeşitli yerleştirmeleri (video, slayt gösterisi, ses ve kod) içerir. Bunun için https://www.arduino.cc/reference/en/asciidoc_sample/asciidoc_dictionary/asciidoc_template-dictionary/CLhere] yazdığını görebilirsiniz.
 
-If you want to contribute to the Language Reference or edit existing content, you can find two templates in reference-tr/AsciiDoc_sample/Reference_Terms:
+Dil Referansına katkıda bulunmak veya mevcut içeriği düzenlemek istiyorsanız, reference-tr / AsciiDoc_sample / Reference_Terms'de iki şablon bulabilirsiniz:
 
-* Use https://raw.githubusercontent.com/arduino/reference-tr/master/AsciiDoc_sample/Reference_Terms/AsciiDoc_Template-Single_Entity.adoc[`AsciiDoc_Template-Single_Entity.adoc`] (rendered https://www.arduino.cc/reference/en/asciidoc_sample/reference_terms/asciidoc_template-single_entity/[here]) for terms such as link:http://arduino.cc/en/Reference/AnalogWrite[analogWrite].
-* Use https://raw.githubusercontent.com/arduino/reference-tr/master/AsciiDoc_sample/Reference_Terms/AsciiDoc_Template-Parent_Of_Entities.adoc[`AsciiDoc_Template-Parent_Of_Entities.adoc`] (rendered https://www.arduino.cc/reference/en/asciidoc_sample/reference_terms/asciidoc_template-parent_of_entities/[here]) for groups of functions such as link:http://arduino.cc/en/Reference/Serial[Serial].
+* https://raw.githubusercontent.com/arduino/reference-tr/master/AsciiDoc_sample/Reference_Terms/AsciiDoc_Template-Single_Entity.adoc [] AsciiDoc_Template-Single_Entity.adoc`] kullanın (https://www.edre.edoc.edoc.emoc.emoc.emoc.emoc.emoc_doc.emoc/ / tr / asciidoc_sample / reference_terms / asciidoc_template-single_entity / [here]) link gibi terimler için: http: //arduino.cc/en/Reference/AnalogWrite [analogWrite].
+* 
+391/5000
+https://raw.githubusercontent.com/arduino/reference-tr/master/AsciiDoc_sample/Reference_Terms/AsciiDoc_Template-Parent_Of_Entities.adoc [`AsciiDoc_Template-Parent_Of_Entities.adoc`] (hale https://www.arduino.cc/reference kullanın / tr / asciidoc_sample / reference_terms / asciidoc_template-parent_of_entities / [here]) link gibi fonksiyon grupları için: http: //arduino.cc/en/Reference/Serial [Serial].
 
-Please note that every Reference file should include as least a Description, some Example Code, and links to other relevant infos (See Also section). 
-
-If you need to add images to the Asciidoc please create a folder called attachments in the same directory as the Asciidoc file. Images can be saved in SVG and PNG format, max size 200KB.
-
-== Contribute Content on Github
-If you are not familiar with Git you can contribute content directly on Github via their online interface. We put together a short Tutorial to show you how, https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[CHECK IT OUT!]
-
-link:https://help.github.com/articles/editing-files-in-another-user-s-repository/[You can also follow this guide] (written by the Github team) to learn how to edit an .adoc file and propose a file change to the Arduino team.  
-When suggesting a change, please follow the guidelines described in the Reference template files.
+Lütfen her Referans dosyasının en az bir Açıklama, bazı Örnek Kod ve diğer ilgili bilgilerle bağlantılar içermesi gerektiğini unutmayın (Ayrıca bakınız) 
 
 
-== Submitting a pull request
-We are glad you want to contribute to the Arduino Reference: that's the best way to help the community.
 
-Your contribution is adding or modifying existing code or full descriptions, please always refer to an existing issue or open a new one before contributing. 
+Asciidoc'a resim eklemeniz gerekirse, lütfen Asciidoc dosyasıyla aynı dizinde ekler adı verilen bir klasör oluşturun. Görüntüler SVG ve PNG formatında, maksimum 200 KB boyutunda kaydedilebilir.
+== Github'daki İçeriğe Katkıda Bulun
+Git'e aşina değilseniz, çevrimiçi arayüzleri üzerinden doğrudan Github'daki içeriğe katkıda bulunabilirsiniz. Size nasıl yapıldığını göstermek için kısa bir Öğretici hazırladık, https://create.arduino.cc/projecthub/Arduino_Genuino/contribute-to-the-arduino-reference-af7c37[BUNA BİR BAK!].
 
-=== Folder Structure
+link: https: //help.github.com/articles/editing-files-in-another-user-s-repository/ [Bu kılavuzu takip edebilirsiniz] (Github ekibi tarafından yazılmıştır) adoc dosyasını ve Arduino ekibine bir dosya değişikliği önerin.  
+Bir değişiklik önerirken, lütfen Referans şablon dosyalarında açıklanan talimatları izleyin.
+
+
+== Bir çekme isteği gönderme
+Arduino Referansına katkıda bulunmak istediğinize sevindik: topluluğa yardım etmenin en iyi yolu bu.
+
+Katkınız, mevcut kod veya tam açıklamaları eklemek veya değiştirmek, lütfen katkıda bulunmadan önce daima mevcut bir konuya bakın veya yeni bir tane açın. 
+
+=== Klasör Yapısı
 [source]
 ----
 reference-tr
@@ -52,10 +55,10 @@ reference-tr
 
 ----
 
-Within the Language folder, the file tree follows the same structure as in the link:https://www.arduino.cc/reference/en[Arduino Reference webpage]
+Langauge klasörü içindeki dosya ağacı, bağlantıdakiyle aynı yapıyı izler: https: //www.arduino.cc/reference/tr[Arduino Referans web sayfası]
 
-=== License
+=== Lisans
 
-Please note that your contribution to the Arduino Reference is licensed under a Creative Commons Attribution-Share Alike 3.0 License. see https://creativecommons.org/licenses/by-sa/3.0/
+Lütfen, Arduino Referansına yaptığınız katkıların, bir Creative Commons Atıf-Benzer Hem Hisse Senedi 3.0 Lisansı altında lisanslandığını unutmayın. bkz. https://creativecommons.org/licenses/by-sa/3.0/
 
-image:https://i.creativecommons.org/l/by-sa/3.0/88x31.png[Creative Commons License, title="Creative Commons License"] This work is licensed under a link:https://creativecommons.org/licenses/by-sa/3.0/deed.en[Creative Commons Attribution-ShareAlike 3.0 Unported License].
+Creative Commons lisansi, basligi = "Creative Commons License"] Bu eser bir bağlantı altında lisanslanmıştır: https: // creativecommons. org / lisans / yan sa / 3.0 / deed.en[Creative Commons Attribution-ShareAlike 3.0 Desteklenmeyen Lisans].
