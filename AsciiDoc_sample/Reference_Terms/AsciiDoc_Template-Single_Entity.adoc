@@ -1,15 +1,14 @@
 ---
-title: Entity Title
-title_expanded: Less Than or Equal To
-categories: [ "Structure" ]
-subCategories: [ "Subcategory Name" ]
+Başlık: Kurum Başlığı
+title_expanded: Daha Az veya Eşit
+kategoriler: [ "Structure" ]
+Alt kategoriler: [ "Subcategory Name" ]
 ---
-// ARDUINO LANGUAGE REFERENCE TAGS (above)   ►►►►► ALWAYS INCLUDE IN YOUR FILE ◄◄◄◄◄
-// title will show up in the Index of all Reference terms
-// If the title is an operator write it out in words in title_expanded
-// categories: Pick between Structure, Variable or Function
-// The subcategory within the ones available in the index ("Digital I/O", "Arithmetic Operators")
-
+// ARDUINO DİL REFERANS ETİKETLERİ (yukarıda)  ►►►►► HER ZAMAN DOSYADA DAHİL ◄◄◄◄◄
+// title tüm Referans terimler Dizininde görünecek
+// Başlık bir operatör ise, title_expanded içindeki kelimelere yazın.
+// Kategoriler: Yapı, Değişken veya İşlev arasında seçim yapın
+// Dizinde mevcut olanlar içindeki alt kategori ("Dijital Giriş / Çıkış", "Aritmetik Operatörler")
 
 
 
@@ -26,30 +25,30 @@ subCategories: [ "Subcategory Name" ]
 [float]
 === Description
 // Describe what this Reference term does, and what it is used for	►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
-Writes an analog value (http://arduino.cc/en/Tutorial/PWM[PWM wave]) to a pin. Can be used to light a LED at varying brightnesses or drive a motor at various speeds. After a call to `analogWrite()`, the pin will generate a steady square wave of the specified duty cycle until the next call to `analogWrite()` (or a call to `digitalRead()` or `digitalWrite()` on the same pin). The frequency of the PWM signal on most pins is approximately 490 Hz. On the Uno and similar boards, pins 5 and 6 have a frequency of approximately 980 Hz.
+Bir pime analog bir değer (http://arduino.cc/en/Tutorial/PWMCLPWM wave]) yazar. Bir LED'i farklı parlaklıklarda yakmak veya bir motoru çeşitli hızlarda sürmek için kullanılabilir. AnalogWrite () `a yapılan bir çağrıdan sonra, pin belirtilen görev döngüsünün sabit bir kare dalgasını oluşturacak, sonraki analogWrite ()` ya (ya da `digitalRead ()` ya da digitalWrite () 'a yapılan çağrıya kadar) Aynı pin). PWM sinyalinin çoğu pin üzerindeki frekansı yaklaşık 490 Hz'dir. Uno ve benzeri kartlarda, 5 ve 6 pimleri yaklaşık 980 Hz frekansa sahiptir.
 [%hardbreaks]
 
-image::http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg[caption="", title="A beautiful Arduino UNO"]
+image::http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg[caption="", title="Güzel bir Arduino UNO"]
 [%hardbreaks]
 
 
 [float]
-=== Syntax
+=== Sözdizimi
 // Enter Reference term syntax, please specify all available parameters  ►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
 `analogWrite(pin, value)`
 
 
 [float]
-=== Parameters
+=== Parametreler
 // List all available parameters, please describe them one by one adding the data type (e.g int, boolean, char, String, float, long, double...)  ►►►►► THIS SECTION IS MANDATORY FOR FUNCTIONS ◄◄◄◄◄
-`pin`: the number of the pin to write to. Allowed data types: int. +
-`value`: the duty cycle between 0 (always off) and 255 (always on). Allowed data types: int.
+`pin`: Yazılacak pin numarası. İzin verilen veri türleri: int. +
+`value`: görev döngüsü 0 (her zaman kapalı) ve 255 (her zaman açık) arasındadır. İzin verilen veri türleri: int.
 
 
 [float]
 === Returns
 // Enter what the function returns (e.g. HIGH or LOW), if there is no return please write: _Nothing_   ►►►►► THIS SECTION IS MANDATORY FOR FUNCTIONS ◄◄◄◄◄
-Nothing
+Hiçbir şey değil
 
 --
 // OVERVIEW SECTION ENDS
@@ -62,9 +61,9 @@ Nothing
 --
 
 [float]
-=== Example Code
+=== Örnek kod
 // Describe what the example code is all about and add relevant code   ►►►►► THIS SECTION IS MANDATORY ◄◄◄◄◄
-Sets the output to the LED proportional to the value read from the potentiometer.
+Çıkışı, potansiyometreden okunan değerle orantılı olarak LED'e ayarlar.
 
 
 [source,arduino]
@@ -89,11 +88,11 @@ void loop() {
 
 
 [float]
-=== Notes and Warnings
+=== Notlar ve Uyarılar
 // Add useful notes, tips, caveat, known issues, and warnings about this Reference term
 This is because of interactions with the `millis()` and `delay()` functions.
 [%hardbreaks]
-image::http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg[caption="", title="A beautiful Arduino UNO"]
+image::http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg[caption="", title="Güzel bir Arduino UNO"]
 [%hardbreaks]
 
 --
@@ -105,7 +104,7 @@ image::http://arduino.cc/en/uploads/Main/ArduinoUno_R3_Front_450px.jpg[caption="
 --
 
 [float]
-=== See also
+=== Ayrıca bakınız
 // Link relevant content by category, such as other Reference terms (please add the tag #LANGUAGE#),
 // definitions: (please add the tag #DEFINITION#), and examples of Projects and Tutorials
 // examples: (please add the tag #EXAMPLE#)
