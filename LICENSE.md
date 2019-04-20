@@ -1,359 +1,358 @@
-Creative Commons Legal Code
+Creative Commons Yasal Kodu
 
 Attribution-ShareAlike 3.0 Unported
 
-    CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
-    LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN
-    ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
-    INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES
-    REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR
-    DAMAGES RESULTING FROM ITS USE.
+    YARATICI ORTAKLAR KURUMSAL HUKUK FİRMASI DEĞİLDİR
+     YASAL HİZMETLER. BU LİSANSIN DAĞILIMI BİR OLUŞTURAMAZ
+     ATTORNEY-MÜŞTERİ İLİŞKİLERİ.YARATICI ORTAKLAR BU SAĞLADI
+     "OLDUĞU GİBİ" TEMEL BİLGİLER. YARATICI ORTAKLAR GARANTİ VERMEMEKTEDİR
+     SAĞLANAN BİLGİLERİN İLE İLGİLİ OLMASI VE SORUMLULUK
+     KULLANIMDAN KAYNAKLANAN ZARARLAR.
 
-License
+Lisans
 
-THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE
-COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY
-COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS
-AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
+	ÇALIŞMA (AŞAĞIDA TANIMLANMIŞTIR) BU YARATICI KOŞULLARI ALTINDA SAĞLANIR
+	ORTAK KAMU LİSANSI ("CCPL" VEYA "LİSANS").İŞ TARAFINDAN KORUNMAKTADIR
+	TELİF HAKKI VE / VEYA DİĞER UYGULANACAK HUKUK.AS'DAN DİĞER İŞLERİN KULLANIMI
+	BU LİSANS VEYA TELİF HAKKIYLA YETKİLENDİRİLEN YASA YASAKTIR.
 
-BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE
-TO BE BOUND BY THE TERMS OF THIS LICENSE. TO THE EXTENT THIS LICENSE MAY
-BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS
-CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND
-CONDITIONS.
+	BURADA SAĞLANAN İŞLER İÇİN HERHANGİ BİR HAKLARA İNCELEME KABUL EDİYORUM
+	BU LİSANSIN KOŞULLARINA BAĞLI OLMAK.BU LİSANS OLABİLİR SÖZLEŞMEDİR
+	İHTİYACI ŞARTLARIN KABUL EDİLDİĞİNİZİ DEĞERLENDİRMESİ VE
+	KOŞULLAR.
 
-1. Definitions
+1. Tanımlar
 
- a. "Adaptation" means a work based upon the Work, or upon the Work and
-    other pre-existing works, such as a translation, adaptation,
-    derivative work, arrangement of music or other alterations of a
-    literary or artistic work, or phonogram or performance and includes
-    cinematographic adaptations or any other form in which the Work may be
-    recast, transformed, or adapted including in any form recognizably
-    derived from the original, except that a work that constitutes a
-    Collection will not be considered an Adaptation for the purpose of
-    this License. For the avoidance of doubt, where the Work is a musical
-    work, performance or phonogram, the synchronization of the Work in
-    timed-relation with a moving image ("synching") will be considered an
-    Adaptation for the purpose of this License.
- b. "Collection" means a collection of literary or artistic works, such as
-    encyclopedias and anthologies, or performances, phonograms or
-    broadcasts, or other works or subject matter other than works listed
-    in Section 1(f) below, which, by reason of the selection and
-    arrangement of their contents, constitute intellectual creations, in
-    which the Work is included in its entirety in unmodified form along
-    with one or more other contributions, each constituting separate and
-    independent works in themselves, which together are assembled into a
-    collective whole. A work that constitutes a Collection will not be
-    considered an Adaptation (as defined below) for the purposes of this
-    License.
- c. "Creative Commons Compatible License" means a license that is listed
-    at http://creativecommons.org/compatiblelicenses that has been
-    approved by Creative Commons as being essentially equivalent to this
-    License, including, at a minimum, because that license: (i) contains
-    terms that have the same purpose, meaning and effect as the License
-    Elements of this License; and, (ii) explicitly permits the relicensing
-    of adaptations of works made available under that license under this
-    License or a Creative Commons jurisdiction license with the same
-    License Elements as this License.
- d. "Distribute" means to make available to the public the original and
-    copies of the Work or Adaptation, as appropriate, through sale or
-    other transfer of ownership.
- e. "License Elements" means the following high-level license attributes
-    as selected by Licensor and indicated in the title of this License:
-    Attribution, ShareAlike.
- f. "Licensor" means the individual, individuals, entity or entities that
-    offer(s) the Work under the terms of this License.
- g. "Original Author" means, in the case of a literary or artistic work,
-    the individual, individuals, entity or entities who created the Work
-    or if no individual or entity can be identified, the publisher; and in
-    addition (i) in the case of a performance the actors, singers,
-    musicians, dancers, and other persons who act, sing, deliver, declaim,
-    play in, interpret or otherwise perform literary or artistic works or
-    expressions of folklore; (ii) in the case of a phonogram the producer
-    being the person or legal entity who first fixes the sounds of a
-    performance or other sounds; and, (iii) in the case of broadcasts, the
-    organization that transmits the broadcast.
- h. "Work" means the literary and/or artistic work offered under the terms
-    of this License including without limitation any production in the
-    literary, scientific and artistic domain, whatever may be the mode or
-    form of its expression including digital form, such as a book,
-    pamphlet and other writing; a lecture, address, sermon or other work
-    of the same nature; a dramatic or dramatico-musical work; a
-    choreographic work or entertainment in dumb show; a musical
-    composition with or without words; a cinematographic work to which are
-    assimilated works expressed by a process analogous to cinematography;
-    a work of drawing, painting, architecture, sculpture, engraving or
-    lithography; a photographic work to which are assimilated works
-    expressed by a process analogous to photography; a work of applied
-    art; an illustration, map, plan, sketch or three-dimensional work
-    relative to geography, topography, architecture or science; a
-    performance; a broadcast; a phonogram; a compilation of data to the
-    extent it is protected as a copyrightable work; or a work performed by
-    a variety or circus performer to the extent it is not otherwise
-    considered a literary or artistic work.
- i. "You" means an individual or entity exercising rights under this
-    License who has not previously violated the terms of this License with
-    respect to the Work, or who has received express permission from the
-    Licensor to exercise rights under this License despite a previous
-    violation.
- j. "Publicly Perform" means to perform public recitations of the Work and
-    to communicate to the public those public recitations, by any means or
-    process, including by wire or wireless means or public digital
-    performances; to make available to the public Works in such a way that
-    members of the public may access these Works from a place and at a
-    place individually chosen by them; to perform the Work to the public
-    by any means or process and the communication to the public of the
-    performances of the Work, including by public digital performance; to
-    broadcast and rebroadcast the Work by any means including signs,
-    sounds or images.
- k. "Reproduce" means to make copies of the Work by any means including
-    without limitation by sound or visual recordings and the right of
-    fixation and reproducing fixations of the Work, including storage of a
-    protected performance or phonogram in digital form or other electronic
-    medium.
+ a. "Uyum", Çalışmaya veya Çalışmaya dayalı bir çalışma anlamına gelir.
+     çeviri, uyarlama gibi önceden var olan diğer işler,
+     türev çalışma, müziğin düzenlenmesi veya
+     edebi veya sanatsal eser, fonogram veya performans
+     sinematografik uyarlamalar veya Çalışmanın olabileceği başka herhangi bir biçimde
+     tanınabilir, herhangi bir biçimde dahil olmak üzere yeniden biçimlendirilmiş, dönüştürülmüş veya uyarlanmış
+     Orijinalden türetilmiş bir eser dışında,
+     Koleksiyon amaçları için bir Adaptasyon olarak kabul edilmeyecektir.
+     bu lisans.İşin bir müzikal olduğu konusunda şüpheden kaçınmak için
+     iş, performans veya fonogram, çalışmaların senkronize edilmesi
+     hareketli bir resimle zamanlanmış ilişki ("senkronizasyon")
+     Bu Lisansın amacı için uyarlama.
+ b. "Koleksiyon" gibi edebi veya sanatsal eserlerin bir koleksiyonu anlamına gelir.
+     ansiklopediler ve Antolojiler veya performanslar, fonogramlar veya
+     yayınlar veya diğer eserler veya listelenen eserler dışındaki konular
+     aşağıdaki Bölüm 1 (f) 'de;
+     içeriklerinin düzenlenmesi, entelektüel yaratımlar,
+     İşin tamamen değiştirilmemiş biçimde bütünüyle dahil edildiği
+     bir veya daha fazla katkıyla, her biri ayrı ve
+     kendi başlarına bir araya getirilmiş bağımsız eserler,
+     toplu bütün. Koleksiyon oluşturan bir çalışma olmayacak
+     Bunun için bir Adaptasyon (aşağıda tanımlandığı şekilde) olarak kabul edilir.
+     Lisans.
+ c. "Creative Commons Uyumlu Lisans" listelenen bir lisans anlamına gelir
+     olmuştur http://creativecommons.org/compatiblelicenses
+     Creative Commons tarafından buna esas olarak eşdeğer olduğu onaylandı
+     En azından, bu lisans da dahil olmak üzere lisans: (i) içerir
+     Lisans ile aynı amaç, anlam ve etkiye sahip terimler
+     Bu Lisansın Elemanları; ve (ii) serbest bırakmaya açıkça izin veriyor
+     bu lisans altında sunulan çalışmaların uyarlanmalarının
+     Lisansı veya aynı olan bir Creative Commons yargı yetkisi lisansı
+     Bu Lisans Olarak Lisans Elemanları.
+ d. "Dağıt", halka arzın orijinal olmasını sağlamak ve
+     İşin veya Adaptasyonun kopyalarını uygun şekilde, satış yoluyla veya
+     diğer mülkiyet devri.
+ e. "Lisans Öğeleri", aşağıdaki üst düzey lisans özellikleri anlamına gelir
+     Lisans Veren tarafından seçilen ve bu Lisansın başlığında belirtildiği gibi:
+     Atıf, ShareAlike.
+ f. "Lisans veren", bireyi, bireyi, varlığı veya varlığı
+     bu Lisansın şartları uyarınca Çalışmayı teklif eder.
+ g. "Orijinal Yazar", edebi veya sanatsal bir eser söz konusu olduğunda,
+     Çalışmayı yaratan birey, bireyler, varlıklar veya varlıklar
+     veya hiçbir birey veya kurum tanımlanamazsa, yayıncı; ve
+     ilaveten (i) bir performans durumunda, aktörler, şarkıcılar,
+     müzisyenler, dansçılar ve rol oynayan, söyleyen, teslim eden, ilan eden diğer kişiler,
+     edebi veya sanatsal eserler oynamak, yorumlamak veya başka türlü icra etmek veya
+     folklor ifadeleri; (ii) fonogram durumunda üretici
+     Birinin seslerini ilk olarak düzelten kişi veya tüzel kişilik olmak
+     performans veya diğer sesler; ve, (iii) yayın durumunda,
+     yayını ileten organizasyon.
+ h. "Çalışma", şartlar altında sunulan edebi ve / veya sanatsal çalışmaları ifade eder.
+    Bu Lisans’ın, herhangi bir üretimde
+    edebi, bilimsel ve sanatsal alan, mod ne olursa olsun
+    Bir kitap gibi dijital form içeren ifadesinin formu,
+    broşür ve diğer yazılar; ders, adres, vaaz veya başka bir iş
+    aynı nitelikte; dramatik veya dramatik müzikal bir eser; bir
+    aptal şovda koreografik eserler veya eğlence; müzikal
+    kelimelerle veya kelimelerle kompozisyon; bir sinematografik eser
+    sinematografiye benzeyen bir süreçle ifade edilen özümsemiş eserler;
+    çizim, resim, mimari, heykel, oyma işi veya
+    litografi; asimile edilmiş fotoğraf çalışmaları
+    fotoğrafa benzeyen bir işlemle ifade edilir; uygulamalı bir çalışma
+    Sanat; Bir illüstrasyon, harita, plan, eskiz veya üç boyutlu çalışma
+    coğrafya, topoğrafya, mimarlık veya bilime göre; bir
+    performans; Bir yayın; bir fonogram; bir veri derlemesi
+    telif hakkıyla korunan bir eser olarak korunduğu ölçüde; veya bir iş tarafından gerçekleştirilen
+    aksi halde olmadığı kadar çeşitli veya sirk sanatçısı
+    edebi veya sanatsal bir eser olarak kabul edilir.
+ i. "Siz" bu hakka sahip bir kişiyi veya varlığı ifade eder
+     Daha önce bu Lisansın şartlarını ihlal etmeyen Lisans.
+     İşe saygı duymak veya
+     Bir öncekine rağmen bu Lisans altında haklarını kullanmak için lisans veren
+     ihlal.
+ j. "Herkese Açık Göster", Çalışmanın halka açık yorumlarını yapmak anlamına gelir ve
+     Herhangi bir yoldan kamuya yapılan kamuya yapılan alıntıları kamuya açıklamak veya
+     tel veya kablosuz araçlar veya halka açık dijital dahil olmak üzere
+     performansları; Bayındırlık İşleri’ne
+     halkın üyeleri bu Eserlere bir yerden ve bir yerden erişebilirler.
+     tek tek onlar tarafından seçilen yer; İşi halka yapmak
+     Herhangi bir yöntem veya süreçle ve
+     Kamusal dijital performans dahil olmak üzere Çalışmanın performansları; için
+     İşi, işaretler dahil herhangi bir şekilde yayınlamak ve yeniden yayınlamak,
+     sesler veya görüntüler.
+ k. "Çoğalt", Çalışmanın kopyalarını,
+     Ses veya görsel kayıt ve
+     Teslimin tespiti ve çoğaltılması,
+     dijital biçimde veya diğer elektronik ortamda korumalı performans veya fonogram
+     orta.
 
-2. Fair Dealing Rights. Nothing in this License is intended to reduce,
-limit, or restrict any uses free from copyright or rights arising from
-limitations or exceptions that are provided for in connection with the
-copyright protection under copyright law or other applicable laws.
+2. Adil İşlem Hakları. Bu Lisanstaki hiçbir şeyin azaltmaya yönelik olmadığı,
+herhangi bir kullanım hakkını, telif haklarından ya da
+ile bağlantılı olarak sağlanan sınırlamalar veya istisnalar
+telif hakkı yasası veya ilgili diğer yasalar uyarınca telif hakkı koruması.
 
-3. License Grant. Subject to the terms and conditions of this License,
-Licensor hereby grants You a worldwide, royalty-free, non-exclusive,
-perpetual (for the duration of the applicable copyright) license to
-exercise the rights in the Work as stated below:
+3. Ruhsat Verme. Bu Lisansın hüküm ve koşullarına tabi olarak,
+Lisans Veren, size dünya çapında, telif ücretsiz, münhasır olmayan,
+kalıcı (geçerli telif hakkı süresince) lisans
+Çalışmadaki haklarını aşağıda belirtilen şekilde kullanın:
 
- a. to Reproduce the Work, to incorporate the Work into one or more
-    Collections, and to Reproduce the Work as incorporated in the
-    Collections;
- b. to create and Reproduce Adaptations provided that any such Adaptation,
-    including any translation in any medium, takes reasonable steps to
-    clearly label, demarcate or otherwise identify that changes were made
-    to the original Work. For example, a translation could be marked "The
-    original work was translated from English to Spanish," or a
-    modification could indicate "The original work has been modified.";
- c. to Distribute and Publicly Perform the Work including as incorporated
-    in Collections; and,
- d. to Distribute and Publicly Perform Adaptations.
- e. For the avoidance of doubt:
+ a. Çalışmayı Yeniden Üretmek, Çalışmayı bir veya daha fazla içine dahil etmek
+     Koleksiyonlar ve Çalışmaya dahil edildiği şekilde çoğaltılması
+     Koleksiyonları;
+ b. bu tür bir uyarlamanın sağlanması şartıyla uyarlamaları oluşturmak ve çoğaltmak,
+     Herhangi bir ortamda herhangi bir çeviri de dahil olmak üzere,
+     Değişikliklerin yapıldığını açıkça etiketleyin, birbirinden ayırın veya başka şekilde tanımlayın
+     orijinal eserine. Örneğin, bir çeviri "The
+     Orijinal eser İngilizce'den İspanyolcaya çevrildi "veya
+     değişiklik, "Orijinal eser değiştirildi.";
+ c. Dahil edilenler de dahil olmak üzere Çalışmayı Dağıtmak ve Açık Bir Şekilde Yürütmek
+     Koleksiyonlarda; ve,
+ d. Uyarlamaları Dağıtmak ve Genel Olarak Gerçekleştirmek.
+ e. Şüpheden kaçınmak için:
 
-     i. Non-waivable Compulsory License Schemes. In those jurisdictions in
-        which the right to collect royalties through any statutory or
-        compulsory licensing scheme cannot be waived, the Licensor
-        reserves the exclusive right to collect such royalties for any
-        exercise by You of the rights granted under this License;
-    ii. Waivable Compulsory License Schemes. In those jurisdictions in
-        which the right to collect royalties through any statutory or
-        compulsory licensing scheme can be waived, the Licensor waives the
-        exclusive right to collect such royalties for any exercise by You
-        of the rights granted under this License; and,
-   iii. Voluntary License Schemes. The Licensor waives the right to
-        collect royalties, whether individually or, in the event that the
-        Licensor is a member of a collecting society that administers
-        voluntary licensing schemes, via that society, from any exercise
-        by You of the rights granted under this License.
+     i. Feragat edilemez Zorunlu Lisans Programları. Bu bölgelerde
+         Herhangi bir yasal yoldan telif hakkı tahsil etme hakkı;
+         Lisans Verme, zorunlu lisanslama programından feragat edilemez
+         Herhangi bir şekilde bu tür telif hakları tahsil etme hakkını saklı tutar.
+         Bu Lisans kapsamında verilen hakların tarafınızdan kullanılması;
+    ii. Feragat Zorunlu Lisans Düzenleri. Bu bölgelerde
+         Herhangi bir yasal yoldan telif hakkı tahsil etme hakkı;
+         zorunlu lisans programı feragat edilebilir, Lisans Veren feragatname
+         Tarafınızdan yapılan herhangi bir alıştırma için bu telif haklarını tahsil etme hakkınız
+         bu Lisans altında verilen hakların; ve,
+   iii. Gönüllü Lisans Programları. Lisans Veren, feragat hakkından feragat eder.
+         şahsi veya şahsi olmak kaydıyla,
+         Licensor, yöneten, toplayıcı bir topluluğun bir üyesidir.
+         herhangi bir alıştırmadan gönüllü lisans programları, bu toplum aracılığıyla
+         Bu Lisans altında verilen hakların tarafınızdan.
 
-The above rights may be exercised in all media and formats whether now
-known or hereafter devised. The above rights include the right to make
-such modifications as are technically necessary to exercise the rights in
-other media and formats. Subject to Section 8(f), all rights not expressly
-granted by Licensor are hereby reserved.
+Yukarıdaki haklar tüm medyada ve formatlarda şu anda kullanılabilir
+Bilinen veya bundan sonra tasarlananlar. Yukarıdaki haklar, yapma hakkını içerir.
+Hakların kullanılması için teknik olarak gerekli olan değişiklikler
+diğer medya ve formatlar. Bölüm 8 (f) 'ye tabi, tüm hakları açıkça
+Lisans Veren tarafından verilen haklar saklıdır.
 
-4. Restrictions. The license granted in Section 3 above is expressly made
-subject to and limited by the following restrictions:
+4. Kısıtlamalar. Yukarıda Bölüm 3'te verilen lisans açıkça yapılır.
+aşağıdaki kısıtlamalara tabi ve bunlarla sınırlı:
 
- a. You may Distribute or Publicly Perform the Work only under the terms
-    of this License. You must include a copy of, or the Uniform Resource
-    Identifier (URI) for, this License with every copy of the Work You
-    Distribute or Publicly Perform. You may not offer or impose any terms
-    on the Work that restrict the terms of this License or the ability of
-    the recipient of the Work to exercise the rights granted to that
-    recipient under the terms of the License. You may not sublicense the
-    Work. You must keep intact all notices that refer to this License and
-    to the disclaimer of warranties with every copy of the Work You
-    Distribute or Publicly Perform. When You Distribute or Publicly
-    Perform the Work, You may not impose any effective technological
-    measures on the Work that restrict the ability of a recipient of the
-    Work from You to exercise the rights granted to that recipient under
-    the terms of the License. This Section 4(a) applies to the Work as
-    incorporated in a Collection, but this does not require the Collection
-    apart from the Work itself to be made subject to the terms of this
-    License. If You create a Collection, upon notice from any Licensor You
-    must, to the extent practicable, remove from the Collection any credit
-    as required by Section 4(c), as requested. If You create an
-    Adaptation, upon notice from any Licensor You must, to the extent
-    practicable, remove from the Adaptation any credit as required by
-    Section 4(c), as requested.
- b. You may Distribute or Publicly Perform an Adaptation only under the
-    terms of: (i) this License; (ii) a later version of this License with
-    the same License Elements as this License; (iii) a Creative Commons
-    jurisdiction license (either this or a later license version) that
-    contains the same License Elements as this License (e.g.,
-    Attribution-ShareAlike 3.0 US)); (iv) a Creative Commons Compatible
-    License. If you license the Adaptation under one of the licenses
-    mentioned in (iv), you must comply with the terms of that license. If
-    you license the Adaptation under the terms of any of the licenses
-    mentioned in (i), (ii) or (iii) (the "Applicable License"), you must
-    comply with the terms of the Applicable License generally and the
-    following provisions: (I) You must include a copy of, or the URI for,
-    the Applicable License with every copy of each Adaptation You
-    Distribute or Publicly Perform; (II) You may not offer or impose any
-    terms on the Adaptation that restrict the terms of the Applicable
-    License or the ability of the recipient of the Adaptation to exercise
-    the rights granted to that recipient under the terms of the Applicable
-    License; (III) You must keep intact all notices that refer to the
-    Applicable License and to the disclaimer of warranties with every copy
-    of the Work as included in the Adaptation You Distribute or Publicly
-    Perform; (IV) when You Distribute or Publicly Perform the Adaptation,
-    You may not impose any effective technological measures on the
-    Adaptation that restrict the ability of a recipient of the Adaptation
-    from You to exercise the rights granted to that recipient under the
-    terms of the Applicable License. This Section 4(b) applies to the
-    Adaptation as incorporated in a Collection, but this does not require
-    the Collection apart from the Adaptation itself to be made subject to
-    the terms of the Applicable License.
- c. If You Distribute, or Publicly Perform the Work or any Adaptations or
-    Collections, You must, unless a request has been made pursuant to
-    Section 4(a), keep intact all copyright notices for the Work and
-    provide, reasonable to the medium or means You are utilizing: (i) the
-    name of the Original Author (or pseudonym, if applicable) if supplied,
-    and/or if the Original Author and/or Licensor designate another party
-    or parties (e.g., a sponsor institute, publishing entity, journal) for
-    attribution ("Attribution Parties") in Licensor's copyright notice,
-    terms of service or by other reasonable means, the name of such party
-    or parties; (ii) the title of the Work if supplied; (iii) to the
-    extent reasonably practicable, the URI, if any, that Licensor
-    specifies to be associated with the Work, unless such URI does not
-    refer to the copyright notice or licensing information for the Work;
-    and (iv) , consistent with Ssection 3(b), in the case of an
-    Adaptation, a credit identifying the use of the Work in the Adaptation
-    (e.g., "French translation of the Work by Original Author," or
-    "Screenplay based on original Work by Original Author"). The credit
-    required by this Section 4(c) may be implemented in any reasonable
-    manner; provided, however, that in the case of a Adaptation or
-    Collection, at a minimum such credit will appear, if a credit for all
-    contributing authors of the Adaptation or Collection appears, then as
-    part of these credits and in a manner at least as prominent as the
-    credits for the other contributing authors. For the avoidance of
-    doubt, You may only use the credit required by this Section for the
-    purpose of attribution in the manner set out above and, by exercising
-    Your rights under this License, You may not implicitly or explicitly
-    assert or imply any connection with, sponsorship or endorsement by the
-    Original Author, Licensor and/or Attribution Parties, as appropriate,
-    of You or Your use of the Work, without the separate, express prior
-    written permission of the Original Author, Licensor and/or Attribution
-    Parties.
- d. Except as otherwise agreed in writing by the Licensor or as may be
-    otherwise permitted by applicable law, if You Reproduce, Distribute or
-    Publicly Perform the Work either by itself or as part of any
-    Adaptations or Collections, You must not distort, mutilate, modify or
-    take other derogatory action in relation to the Work which would be
-    prejudicial to the Original Author's honor or reputation. Licensor
-    agrees that in those jurisdictions (e.g. Japan), in which any exercise
-    of the right granted in Section 3(b) of this License (the right to
-    make Adaptations) would be deemed to be a distortion, mutilation,
-    modification or other derogatory action prejudicial to the Original
-    Author's honor and reputation, the Licensor will waive or not assert,
-    as appropriate, this Section, to the fullest extent permitted by the
-    applicable national law, to enable You to reasonably exercise Your
-    right under Section 3(b) of this License (right to make Adaptations)
-    but not otherwise.
+ a. Çalışmayı yalnızca şartlar altında dağıtabilir veya halka açık olarak gerçekleştirebilirsiniz.
+     Bu Lisansın Bir Kaynak veya Tekdüzen Kaynak içermelisiniz
+     Bu Lisansın Tanıtıcısı (URI), İşin her kopyasıyla birlikte
+     Dağıtın veya Genel Olarak Gerçekleştirin. Hiçbir koşul teklif edemez veya uygulayamazsınız
+     Bu Lisansın şartlarını ya da
+     İşin alıcısı, kendisine verilen hakları kullanmaya
+     Lisans koşulları altında alıcı. Alt lisansını veremezsiniz
+     İş. Bu Lisansa atıfta bulunan tüm bildirimleri eksiksiz tutmalısınız ve
+     İşin her kopyasıyla ilgili garantilerin reddedilmesine
+     Dağıtın veya Genel Olarak Gerçekleştirin. Veya Genel Olarak Dağıtdığınızda
+     Çalışmayı Gerçekleştirin, Etkin bir Teknolojik Empoze Edemezsiniz
+     alıcının kabiliyetini kısıtlayan İşe ilişkin önlemler
+     Bu alıcıya verilen hakları kullanma konusunda Sizden çalışın.
+     Lisansın şartları. Bu Bölüm 4 (a) aşağıdaki gibi Çalışma için geçerlidir.
+     Koleksiyona dahil, ancak bu Koleksiyon gerektirmez
+     İşin kendisinden ayrı olarak bu şartlara tabi
+     Lisans. Bir Koleksiyon Oluşturursanız, herhangi bir Lisans Vericiden bildirimde bulunduğunuzda
+     uygulanabilir olduğu ölçüde, herhangi bir krediyi Tahsilâttan çıkarmak gerekir.
+     istendiği gibi, Bölüm 4 (c) 'nin gerektirdiği şekilde. Eğer bir
+     Uyarlamanız gereken herhangi bir Lisans Vericiden bildirimde bulunarak
+     uygulanabilir olması durumunda, Uyarlama’dan istenen herhangi bir kredinin alınması
+     Bölüm 4 (c) istendiği gibi.
+ b. Bir Uyarlamayı sadece aşağıdakiler altında dağıtabilir veya halka açık bir şekilde uygulayabilirsiniz.
+    şartları: (i) bu Lisans; (ii) bu Lisansın daha sonraki bir sürümüyle
+    bu Lisansla aynı Lisans Öğeleri; (iii) Creative Commons
+    yargı yetkisi lisansı (bu veya daha sonraki bir lisans sürümü)
+    bu Lisansla aynı Lisans Öğelerini içeriyor (ör.
+    Atıf-Paylaşılan gibi 3.0 ABD)); (iv) Uyumlu bir Creative Commons
+    Lisans. Adaptasyonu lisanslardan biri altında lisanslıyorsanız,
+    (iv) 'de belirtilenler, bu lisansın şartlarına uymanız gerekir. Eğer
+    Adaptasyonu lisansların herhangi birinin şartlarına göre lisanslamanız
+    (i), (ii) veya (iii) ("Uygulanabilir Lisans") bölümünde belirtilenler,
+    Genel olarak Uygulanabilir Lisansın şartlarına ve
+    Aşağıdaki hükümler: (I) Aşağıdakilerin bir kopyasını veya URI'sini içermelisiniz:
+    Her Adaptasyonun her kopyasıyla birlikte Uygulanabilir Lisans
+    Dağıtın veya Genel Olarak Gerçekleştirin; (II) Herhangi bir teklif veya empoze edemezsiniz
+    Uygulanabilirlik koşullarını kısıtlayan Adaptasyon şartları
+    Adaptasyon alıcısının lisansı veya alıştırma yapma kabiliyeti
+    Bu alıcıya Uygulanabilir şartlar altında verilen haklar
+    Lisans; (III) Başvuran tüm bildirimleri eksiksiz tutmalısınız.
+    Uygulanabilir Lisans ve her kopya ile yapılan garantilerin reddedilmesi
+    Dağıtımını Yaptığınız veya Kamuya Yaptığınız Adaptasyona Dahil Edilen İşin
+    gerçekleştirin; (IV) Uyarlamayı Dağıtırken veya Genel Olarak Yaptığınızda,
+    Üzerinde etkili bir teknolojik önlem uygulayamazsınız.
+    Bir alıcının alıştırma yeteneğini kısıtlayan uyarlama
+    Sizden, bu alıcıya verilen hakları
+    Uygulanabilir Lisansın şartları. Bu Bölüm 4 (b) aşağıdakiler için geçerlidir:
+    Koleksiyonda yer alan uyarlama, ancak bu zorunlu
+    Adaptasyonun Tahsili Dışında Yapılması Gerekenler
+    Uygulanabilir Lisansın şartları.
+ c. İşi ya da Herhangi Bir Uyarlamayı Dağıtır ya da Genel Olarak Gerçekleştirirseniz ya da
+    Koleksiyonlar, bir talepte bulunulmadıkça,
+    Bölüm 4 (a), İşle ilgili tüm telif hakkı bildirimlerini ve
+    ortama uygun veya makul olanı sağlamak;
+    Temin edilmiş ise asıl yazarın (veya varsa takma adının) ismini,
+    ve / veya Orijinal Yazar ve / veya Lisans Veren başka bir taraf tayin ederse
+    veya taraflar (örneğin, bir sponsor enstitü, yayın kuruluşu, dergi)
+    Lisans Sahibinin telif hakkı bildiriminde atıf ("Atıf Tarafları"),
+    Hizmet şartları veya başka makul yollarla, söz konusu tarafın adı
+    veya partiler; (ii) eğer verilirse, Çalışmanın adı; (iii)
+    makul ölçüde uygulanabilir olduğu ölçüde, eğer varsa, URI, bu Lisans Verici
+    böyle bir URI olmadıkça, Çalışmayla ilişkilendirileceğini belirtir
+    Çalışma için telif hakkı bildirimini veya lisans bilgilerini inceleyin;
+    ve (iv) durumunda, Bölüm 3 (b) ile tutarlı olarak,
+    Adaptasyon, Adaptasyonda Çalışmanın kullanımını belirleyen bir kredi
+    (örneğin, "Çalışmanın Orijinal Yazar tarafından Fransızca çevirisi" veya
+    "Orijinal Yazarın Orijinal Eserine Göre Senaryo"). Kredi
+    Bu Bölüm 4 (c) 'nin gerektirdiği herhangi bir makul koşulda uygulanabilir.
+    tavır; Bununla birlikte, bir Uyarlama durumunda veya
+    Tahsilat, asgari olarak böyle bir kredi görünecektir
+    Adaptasyon veya Koleksiyonun katkıda bulunan yazarları
+    bu kredilerin bir kısmı ve en azından
+    diğer katkıda bulunan yazarlara verilen krediler. Önlemek için
+    şüphe, yalnızca bu Bölüm’de talep edilen kredileri
+    atfetme amacının yukarıda belirtilen şekilde ve
+    Bu Lisans altındaki haklarınız, Örtük veya açıkça
+    Sponsorluk veya sponsorluk ile herhangi bir bağlantı kurmak, ima etmek veya ima etmek
+    Orijinal Yazar, Lisans Veren ve / veya Atıf Tarafları, uygun olduğu şekilde,
+    Ayrı bir ifade olmadan, Siz veya Çalışmayı kullanımınız
+    Orijinal Yazar, Lisans Veren ve / veya Atıf'ın yazılı izni
+    Taraflar.
+ d. Lisans Veren tarafından yazılı olarak başka türlü kararlaştırılmadıkça veya
+    Aksi taktirde, Yeniden Üretir, Dağıtır veya
+    Çalışmayı tek başına veya herhangi birinin bir parçası olarak halka açık olarak gerçekleştirin
+    Uyarlamalar veya Koleksiyonlar, Deforme etmeyin, sakatlamayın, değiştirmeyin veya
+    Çalışma ile ilgili olarak başka aşağılayıcı eylemlerde bulunmak.
+    Orijinal Yazarın onuruna veya itibarına zarar verebilir. Lisans
+    herhangi bir tatbikatın yapıldığı yargı bölgelerinde (örneğin Japonya) kabul eder.
+    bu Lisansın 3 (b) Bölümünde verilen hakların
+    Uyarlamalar yapmak) çarpıtma, sakatlanma sayılır,
+    Orijinali önyargılı değiştirme veya diğer aşağılayıcı eylem
+    Yazarın onuru ve itibarı, Lisans Verenin feragat edip etmeyeceğini,
+    Uygun olduğu şekilde, bu Bölüm, izin verilen ölçüde
+    makul bir şekilde
+    Bu Lisansın 3 (b) Bölümünün altındaki haklar (Uyarlama hakkı)
+    ama başka türlü değil.
 
-5. Representations, Warranties and Disclaimer
+5. Temsiller, Garantiler ve Sorumluluk Reddi Beyanı
 
-UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR
-OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY
-KIND CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE,
-INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTIBILITY,
-FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF
-LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS,
-WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION
-OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
+YAZILI VE LİSANS VEREN TARAFLARLA TARAFINDAN SÖZLEŞMESİ GERÇEKTİR
+OLDUĞU GİBİ SUNAR VE HİÇBİR TEMSİLCİLİK VEYA GARANTİ VERMEMEKTEDİR
+ÇALIŞMA, İHRACAT, UYGULANMIŞ, İSTATİSTİK VEYA DİĞER HİZMETLER İLE İLGİLİ TÜR,
+KISITLI OLMADAN, BAŞLIK, TİCARETLİLİK GARANTİLERİ,
+KATILIMCI AMAÇLI, BELİRSİZLİK VEYA İHTİYACINIZ İÇİN UYGUNLUK
+SONRASI VEYA DİĞER HATALAR, DOĞRULUK VEYA HATALARIN ABSİNLİK OLMASI,
+NEREDE VEYA KEŞFEDİLEMEZ. BAZI YETERLİLİKLER HARİÇ TUTMAYIN
+UYGULANAN GARANTİLERİN YANLIŞINDAN, BUNLARA AÇILIR
 
-6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE
-LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR
-ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES
-ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS
-BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+6. Sorumluluk Sınırlaması. UYGULANAN GEREKLİ İSTEĞE BAĞLI
+HUKUK, HİÇBİR OLMADAN LİSANS VEREN HİÇBİR KURAM İÇİN SORUMLULUK
+HERHANGİ BİR ÖZEL, OLAYLI, KOŞULLAR, BUNCU VEYA ÖRNEK ZARARLAR
+LİSANS VEREN EĞER BU LİSANSINDAN KAYNAKLANAN YA DA İŞİN KULLANIMI
+İHTİYACI ZARARLARIN OLASI GELİŞTİRİLMESİ.
 
-7. Termination
+7. Sonlandırma
 
- a. This License and the rights granted hereunder will terminate
-    automatically upon any breach by You of the terms of this License.
-    Individuals or entities who have received Adaptations or Collections
-    from You under this License, however, will not have their licenses
-    terminated provided such individuals or entities remain in full
-    compliance with those licenses. Sections 1, 2, 5, 6, 7, and 8 will
-    survive any termination of this License.
- b. Subject to the above terms and conditions, the license granted here is
-    perpetual (for the duration of the applicable copyright in the Work).
-    Notwithstanding the above, Licensor reserves the right to release the
-    Work under different license terms or to stop distributing the Work at
-    any time; provided, however that any such election will not serve to
-    withdraw this License (or any other license that has been, or is
-    required to be, granted under the terms of this License), and this
-    License will continue in full force and effect unless terminated as
-    stated above.
+ a. Bu Lisans ve bu belgede verilen haklar sona erecek
+     bu Lisansın hükümlerini ihlal etmeniz durumunda otomatik olarak.
+     Adaptasyon veya Koleksiyon almış olan bireyler veya kuruluşlar
+     Bununla birlikte, bu Lisans altında Sizden lisansları alınmayacaktır.
+     bu tür bireylerin veya varlıkların eksiksiz kalması şartıyla sona erdi
+     bu lisanslara uygunluk. 1., 2., 5., 6., 7. ve 8. Bölümler
+     Bu Lisansın herhangi bir şekilde feshedilmesi durumunda.
+ b. Yukarıdaki şartlar ve koşullara tabi olarak, burada verilen lisans
+     kalıcı (Çalışmadaki geçerli telif hakkı süresince).
+     Yukarıdakilere rağmen, Lisans Veren serbest bırakma hakkını saklı tutar.
+     Farklı lisans koşulları altında çalışın veya Çalışmanın dağıtılmasını durdurmak için
+     istediğin zaman; Ancak, bu tür bir seçimin
+     bu Lisansı geri çekmek (veya alınmış olan veya
+     bu Lisansın şartları altında verilmiş olması gerekir) ve bu
+     Lisans, feshedilmediği sürece yürürlükte kalacaktır.
+     belirtilenin üstünde.
 
-8. Miscellaneous
+8. Çeşitli
 
- a. Each time You Distribute or Publicly Perform the Work or a Collection,
-    the Licensor offers to the recipient a license to the Work on the same
-    terms and conditions as the license granted to You under this License.
- b. Each time You Distribute or Publicly Perform an Adaptation, Licensor
-    offers to the recipient a license to the original Work on the same
-    terms and conditions as the license granted to You under this License.
- c. If any provision of this License is invalid or unenforceable under
-    applicable law, it shall not affect the validity or enforceability of
-    the remainder of the terms of this License, and without further action
-    by the parties to this agreement, such provision shall be reformed to
-    the minimum extent necessary to make such provision valid and
-    enforceable.
- d. No term or provision of this License shall be deemed waived and no
-    breach consented to unless such waiver or consent shall be in writing
-    and signed by the party to be charged with such waiver or consent.
- e. This License constitutes the entire agreement between the parties with
-    respect to the Work licensed here. There are no understandings,
-    agreements or representations with respect to the Work not specified
-    here. Licensor shall not be bound by any additional provisions that
-    may appear in any communication from You. This License may not be
-    modified without the mutual written agreement of the Licensor and You.
- f. The rights granted under, and the subject matter referenced, in this
-    License were drafted utilizing the terminology of the Berne Convention
-    for the Protection of Literary and Artistic Works (as amended on
-    September 28, 1979), the Rome Convention of 1961, the WIPO Copyright
-    Treaty of 1996, the WIPO Performances and Phonograms Treaty of 1996
-    and the Universal Copyright Convention (as revised on July 24, 1971).
-    These rights and subject matter take effect in the relevant
-    jurisdiction in which the License terms are sought to be enforced
-    according to the corresponding provisions of the implementation of
-    those treaty provisions in the applicable national law. If the
-    standard suite of rights granted under applicable copyright law
-    includes additional rights not granted under this License, such
-    additional rights are deemed to be included in the License; this
-    License is not intended to restrict the license of any rights under
-    applicable law.
+ a. Çalışmayı veya Koleksiyonu Her Dağıtdığınızda veya Genel Olarak Gerçekleştirdiğinizde,
+     Lisans Veren, alıcıya aynı İşin için bir lisans sunar
+     işbu Lisans kapsamında size verilen lisansla ilgili şartlar ve koşullar.
+ b. Bir Uyarlamayı Ne Zaman Dağıtır veya Açık Olarak Gerçekleştirirseniz, Lisans Veren
+     alıcıya aynı eserdeki orijinal eserin lisansını verir
+     işbu Lisans kapsamında size verilen lisansla ilgili şartlar ve koşullar.
+ c. Bu Lisansın herhangi bir hükmü, geçersiz veya uygulanamaz ise
+     yürürlükteki yasaların geçerliliği veya uygulanabilirliği etkilemeyecektir.
+     bu Lisansın şartlarının geri kalanı ve başka bir işlem yapmadan
+     Taraflar tarafından bu anlaşmaya göre, bu hüküm
+     bu hükmü geçerli kılmak için gereken asgari kapsam ve
+     uygulanabilir.
+ d. Bu Lisansın hiçbir süresi veya hükmü feragat sayılmaz ve
+     feragat veya rıza yazılı olmadıkça, rızanın ihlali
+     ve bu feragat veya rıza ile suçlanacak taraf tarafından imzalanmış.
+ e. Bu Lisans, taraflar arasındaki anlaşmanın tamamını oluşturur.
+     burada lisanslanan Çalışmaya saygı duymak. Hiçbir anlayış yok.
+     Belirtilmemiş Çalışma ile ilgili anlaşmalar veya temsiller
+     İşte. Lisans veren herhangi bir ek hükümle sınırlandırılmayacaktır.
+     Sizden herhangi bir iletişimde görünebilir. Bu Lisans olmayabilir
+     Lisans Verenin ve Siz'in karşılıklı yazılı anlaşması olmadan değiştirilmiş.
+ f. Bu konuda verilen haklar ve başvurulan konu bu
+     Lisans, Bern Sözleşmesi'nin terminolojisini kullanarak hazırlanmıştır.
+     Edebi ve Sanat Eserlerinin Korunması Hakkında
+     28 Eylül 1979), 1961 Roma Sözleşmesi, WIPO Telif Hakkı
+     1996 Antlaşması, WIPO Performansları ve Fonogramları 1996 Antlaşması
+     ve Evrensel Telif Hakkı Sözleşmesi (24 Temmuz 1971'de değiştirildiği gibi).
+     Bu haklar ve konu ilgili
+     Lisans şartlarının yerine getirilmesinin istendiği yargı alanı
+     uygulamasının ilgili hükümlerine göre
+     Bu sözleşmeler geçerli ulusal yasadaki hükümlere uymaktadır. Eğer
+     geçerli telif hakkı yasası kapsamında verilen standart haklar paketi
+     bu Lisans kapsamında verilmeyen ek hakları içerir,
+     ek hakların lisansa dahil edildiği kabul edilir; bu
+     Lisans, herhangi bir hakın lisansını sınırlama amacı taşımamaktadır.
+     Uygulanabilir yasa.
 
 
-Creative Commons Notice
+Creative Commons Bildirimi
 
-    Creative Commons is not a party to this License, and makes no warranty
-    whatsoever in connection with the Work. Creative Commons will not be
-    liable to You or any party on any legal theory for any damages
-    whatsoever, including without limitation any general, special,
-    incidental or consequential damages arising in connection to this
-    license. Notwithstanding the foregoing two (2) sentences, if Creative
-    Commons has expressly identified itself as the Licensor hereunder, it
-    shall have all rights and obligations of Licensor.
+    Creative Commons bu Lisansa taraf değildir ve garanti vermez
+     Çalışma ile bağlantılı ne olursa olsun. Creative Commons olmayacak
+     Herhangi bir zarar için size veya taraflara herhangi bir yasal teoriyle ilgili sorumluluk
+     Herhangi bir genel, özel, ancak bunlarla sınırlı olmamak üzere,
+     bununla bağlantılı olarak ortaya çıkan olası veya sonuçta ortaya çıkan zararlar
+     lisans. Bununla birlikte, eğer Yaratıcı ise, önceki iki (2) cümleye rağmen
+     Commons kendisini buradaki Lisans Verici olarak açıkça tanımladı.
+     Lisans Verenin tüm hak ve yükümlülüklerine sahip olacaktır.
 
-    Except for the limited purpose of indicating to the public that the
-    Work is licensed under the CCPL, Creative Commons does not authorize
-    the use by either party of the trademark "Creative Commons" or any
-    related trademark or logo of Creative Commons without the prior
-    written consent of Creative Commons. Any permitted use will be in
-    compliance with Creative Commons' then-current trademark usage
-    guidelines, as may be published on its website or otherwise made
-    available upon request from time to time. For the avoidance of doubt,
-    this trademark restriction does not form part of the License.
+    Halka sınırlı olduğunu belirtmek dışında,
+     Çalışma CCPL kapsamında lisanslanmıştır, Creative Commons yetkilendirmez
+     "Creative Commons" ticari markalarından birinin veya herhangi birinin
+     önceden haber vermeksizin Creative Commons'ın ilgili ticari markası veya logosu
+     Creative Commons'ın yazılı izni. İzin verilen herhangi bir kullanım
+     Creative Commons'ın güncel marka kullanımına uyma
+     web sitesinde yayınlanabilecek ya da başka türlü hazırlanabilecek kurallar
+     zaman zaman istek üzerine temin edilebilir. Şüpheden kaçınmak için,
+     bu ticari marka kısıtlaması Lisansın bir parçasını oluşturmaz.
 
-    Creative Commons may be contacted at http://creativecommons.org/.
+    Creative Commons'a http://creativecommons.org/ adresinden ulaşılabilir.
