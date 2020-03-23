@@ -17,7 +17,7 @@ Alt kategoriler: [ "Alt kategori adı" ]
 
 
 // GENEL BAKIŞ
-[#genel bakış]
+[#genelbakış]
 --
 
 [float]
@@ -72,7 +72,7 @@ http://arduino.cc[serialEvent()]
 
 
 // BİRLİKTE BAŞLAYIN
-[#Ayrıca bakınız]
+[#Ayrıcabakınız]
 --
 
 [float]
