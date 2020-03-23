@@ -75,7 +75,6 @@ void loop() {
 
 // SEE ALSO SECTION
 [#see_also]
---
 
 [float]
 === See also
